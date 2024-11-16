@@ -1,1 +1,5 @@
-Arduino-Mega-Code to convert RC-Transmitter signals into functions like light, motors and servos. The code is not finished, yet.
+FLOWER CLASS CORVETTE (Revell 1/72) RC-Umbau zum Funktionsmodell
+
+Fernsteuerung eines Schiffsmodells auf Basis des FlySky FS-I6X Zehn-Kanal-Transceivers gekoppelt mit einem Arduino Mega via IBus.
+
+Work In Progress (last update 16.11.24)
